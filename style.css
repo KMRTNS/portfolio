@@ -151,6 +151,7 @@ body {
 }
 
 .project {
+  cursor: pointer;
   display: flex;
   flex-direction: column;
   gap: 20px;
@@ -219,6 +220,7 @@ body {
 
 .post {
   align-items: center;
+  cursor: pointer;
   display: flex;
   gap: 20px;
 }
